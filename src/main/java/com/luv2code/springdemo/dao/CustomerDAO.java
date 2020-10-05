@@ -14,4 +14,5 @@ public interface CustomerDAO {
 
 	public void deleteCustomer(int theId);
 	
+	System.out.println("Change");
 }
